@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="50" unitdist="mil" unit="mm" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -158,9 +158,9 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="160" y2="0" width="0" layer="20"/>
-<wire x1="160" y1="0" x2="160" y2="100" width="0" layer="20"/>
-<wire x1="160" y1="100" x2="0" y2="100" width="0" layer="20"/>
+<wire x1="0" y1="0" x2="100" y2="0" width="0" layer="20"/>
+<wire x1="100" y1="0" x2="100" y2="100" width="0" layer="20"/>
+<wire x1="100" y1="100" x2="0" y2="100" width="0" layer="20"/>
 <wire x1="0" y1="100" x2="0" y2="0" width="0" layer="20"/>
 </plain>
 <libraries>
@@ -1038,24 +1038,38 @@ design rules under a new name.</description>
 </signal>
 <signal name="A4">
 <contactref element="J2" pad="6"/>
+<contactref element="U$1" pad="34"/>
+<wire x1="-29.02" y1="13.42" x2="-19.05" y2="52.07" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="B15">
 <contactref element="J3" pad="1"/>
+<contactref element="U$1" pad="15"/>
+<wire x1="-53.34" y1="52.07" x2="-34.62" y2="1.82" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="B14">
 <contactref element="J3" pad="2"/>
+<contactref element="U$1" pad="14"/>
+<wire x1="-50.8" y1="52.07" x2="-35.42" y2="1.82" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="B13">
 <contactref element="J3" pad="3"/>
+<contactref element="U$1" pad="11"/>
+<wire x1="-48.26" y1="52.07" x2="-38.82" y2="3.62" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="B9">
 <contactref element="J3" pad="4"/>
+<contactref element="U$1" pad="1"/>
+<wire x1="-45.72" y1="52.07" x2="-38.82" y2="11.62" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="B8">
 <contactref element="J3" pad="5"/>
+<contactref element="U$1" pad="44"/>
+<wire x1="-43.18" y1="52.07" x2="-37.02" y2="13.42" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="B7">
 <contactref element="J3" pad="6"/>
+<contactref element="U$1" pad="43"/>
+<wire x1="-40.64" y1="52.07" x2="-36.22" y2="13.42" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>

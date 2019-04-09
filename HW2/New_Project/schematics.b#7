@@ -1011,29 +1011,51 @@ design rules under a new name.</description>
 <signal name="LED">
 <contactref element="LED2" pad="A"/>
 </signal>
-<signal name="N$7">
-<contactref element="U$1" pad="19"/>
-</signal>
-<signal name="N$8">
-<contactref element="U$1" pad="20"/>
-</signal>
-<signal name="N$9">
+<signal name="A0">
 <contactref element="J2" pad="1"/>
+<contactref element="U$1" pad="19"/>
+<wire x1="-31.75" y1="52.07" x2="-31.42" y2="1.82" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="N$10">
+<signal name="A1">
 <contactref element="J2" pad="2"/>
+<contactref element="U$1" pad="20"/>
+<wire x1="-29.21" y1="52.07" x2="-30.62" y2="1.82" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="N$11">
+<signal name="B2">
 <contactref element="J2" pad="3"/>
+<contactref element="U$1" pad="23"/>
+<wire x1="-27.22" y1="3.62" x2="-26.67" y2="52.07" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="N$12">
+<signal name="B3">
 <contactref element="J2" pad="4"/>
+<contactref element="U$1" pad="24"/>
+<wire x1="-27.22" y1="4.42" x2="-24.13" y2="52.07" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="N$13">
+<signal name="B4">
 <contactref element="J2" pad="5"/>
+<contactref element="U$1" pad="33"/>
+<wire x1="-27.22" y1="11.62" x2="-21.59" y2="52.07" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="N$14">
+<signal name="A4">
 <contactref element="J2" pad="6"/>
+</signal>
+<signal name="B15">
+<contactref element="J3" pad="1"/>
+</signal>
+<signal name="B14">
+<contactref element="J3" pad="2"/>
+</signal>
+<signal name="B13">
+<contactref element="J3" pad="3"/>
+</signal>
+<signal name="B9">
+<contactref element="J3" pad="4"/>
+</signal>
+<signal name="B8">
+<contactref element="J3" pad="5"/>
+</signal>
+<signal name="B7">
+<contactref element="J3" pad="6"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
