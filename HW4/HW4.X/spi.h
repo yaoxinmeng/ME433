@@ -7,6 +7,6 @@
 #define CS LATAbits.LATA0       // chip select pin
 
 void spi_init();
-unsigned char spi_io(unsigned char o);
+unsigned short spi_io(unsigned short o);
 
 #endif
