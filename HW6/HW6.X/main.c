@@ -4,7 +4,7 @@
 
 #define BACKGROUND ILI9341_DARKGREEN
 #define FONT ILI9341_ORANGE
-#define INTERVAL 4800000    // 48MHz/10Hz = 4800000
+#define INTERVAL 2400000    // 24MHz/10Hz = 2400000
 #define LENGTH 100          // counter length, also affects bar length
 #define BAR_HEIGHT 9        // bar height with border of 2px
 
@@ -30,7 +30,7 @@ int main(void) {
             i = 0;
             LCD_print(m, 28, 32, BACKGROUND, BACKGROUND);  // clear text
         }
-        fps = 1/(((float)_CP0_GET_COUNT())/48000000);
+        fps = 1/(((float)_CP0_GET_COUNT())/24000000);
         sprintf(m, "FPS: %f", fps);
         LCD_print(m, 28, 100, FONT, BACKGROUND);    // print fps
         while(_CP0_GET_COUNT() < INTERVAL) {;}      // wait 1ms
