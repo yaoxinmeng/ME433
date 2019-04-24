@@ -263,6 +263,12 @@ void LCD_clearScreen(unsigned short color) {
     
     CS = 1; // CS
 }
+void LCD_clearLine(unsigned short y, unsigned short b_color){
+    unsigned short x;
+    for(x = 0; x < ILI9341_TFTWIDTH; x++){
+        LCD_drawChar(' ', x, y, b_color, b_color);
+    }
+}
 
 void LCD_drawChar(char c, unsigned short x, unsigned short y, unsigned short f_color, unsigned short b_color){
     unsigned short col, row;

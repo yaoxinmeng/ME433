@@ -207,6 +207,7 @@ void LCD_data16(unsigned short dat);
 void LCD_setAddr(unsigned short x, unsigned short y, unsigned short w, unsigned short h);
 void LCD_drawPixel(unsigned short x, unsigned short y, unsigned short color);
 void LCD_clearScreen(unsigned short color);
+void LCD_clearLine(unsigned short y, unsigned short b_color);
 void LCD_drawChar(char c, unsigned short x, unsigned short y, unsigned short f_color, unsigned short b_color);
 void LCD_print(char* m, unsigned short x, unsigned short y, unsigned short f_color, unsigned short b_color);
 void LCD_makeBar(unsigned short width, unsigned short length, unsigned short f_color, unsigned short b_color);
