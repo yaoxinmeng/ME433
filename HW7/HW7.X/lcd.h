@@ -209,6 +209,7 @@ void LCD_drawPixel(unsigned short x, unsigned short y, unsigned short color);
 void LCD_clearScreen(unsigned short color);
 void LCD_drawChar(char c, unsigned short x, unsigned short y, unsigned short f_color, unsigned short b_color);
 void LCD_print(char* m, unsigned short x, unsigned short y, unsigned short f_color, unsigned short b_color);
-void LCD_makeBar(unsigned short x, unsigned short y, unsigned short height, unsigned short width, unsigned short f_color, unsigned short b_color);
-void LCD_drawBar(unsigned short x, unsigned short y, unsigned short length, unsigned short f_color, unsigned short b_color);
+void LCD_makeBar(unsigned short width, unsigned short length, unsigned short f_color, unsigned short b_color);
+void LCD_drawBarX(short length, unsigned short f_color, unsigned short b_color);
+void LCD_drawBarY(short length, unsigned short f_color, unsigned short b_color);
 #endif

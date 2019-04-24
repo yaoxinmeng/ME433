@@ -10,7 +10,7 @@
 
 int main(void) {
     init();
-    SPI1_init(); 
+    SPI2_init(); 
     LCD_init();
     LCD_clearScreen(BACKGROUND);     // reset background
     

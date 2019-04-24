@@ -1,7 +1,7 @@
 #include <xc.h>
 #include "lcd.h"
 
-static unsigned short bar_height, bar_width;
+static unsigned short bar_length, bar_width;
 
 void LCD_init() {
     int time = 0;
@@ -290,42 +290,128 @@ void LCD_print(char* m, unsigned short x, unsigned short y, unsigned short f_col
     }
 }
 
-void LCD_makeBar(unsigned short x, unsigned short y, unsigned short height, unsigned short width, unsigned short f_color, unsigned short b_color){
-    unsigned short row, col;
+void LCD_makeBar(unsigned short width, unsigned short length, unsigned short f_color, unsigned short b_color){
+    unsigned short row, col, x, y, half_width, half_length;
+    
+    x = ILI9341_TFTWIDTH/2;
+    y = ILI9341_TFTHEIGHT/2;
+    half_width = (width-1)/2;
+    half_length = (length-1)/2;
+    
+    // draw horizontal bar
     // draw left and right margins
     for(col = 0; col < 2; col++){
-        for(row = 0; row < height; row++){   
-            LCD_drawPixel(x+col, y+row, f_color);
-            LCD_drawPixel(x+col+width-2, y+row, f_color);
+        for(row = 0; row < width; row++){   
+            LCD_drawPixel(x-half_length+col, y+half_width-row, f_color);
+            LCD_drawPixel(x+half_length-col, y+half_width-row, f_color);
+        }
+    }
+    // draw top and bottom margins
+    for(col = 0; col < length; col++){
+        for(row = 0; row < 2; row++){   
+            LCD_drawPixel(x-half_length+col, y+half_width-row, f_color);
+            LCD_drawPixel(x-half_length+col, y-half_width+row, f_color);
+        }
+    }
+    
+    // draw vertical bar
+    // draw left and right margins
+    for(col = 0; col < 2; col++){
+        for(row = 0; row < length; row++){   
+            LCD_drawPixel(x-half_width+col, y-half_length+row, f_color);
+            LCD_drawPixel(x+half_width-col, y-half_length+row, f_color);
         }
     }
     // draw top and bottom margins
     for(col = 0; col < width; col++){
         for(row = 0; row < 2; row++){   
-            LCD_drawPixel(x+col, y+row, f_color);
-            LCD_drawPixel(x+col, y+row+height-2, f_color);
+            LCD_drawPixel(x-half_width+col, y+half_length-row, f_color);
+            LCD_drawPixel(x-half_width+col, y-half_length+row, f_color);
         }
     }
-    // draw middle section of background color
-    for (col = 2; col < (width-4); col++){
-        for (row = 2; row < (height-4); row++){
-            LCD_drawPixel(x+col, y+row, b_color);
+    
+    // draw middle section with background color
+    for (col = 0; col < (length-4); col++){
+        for (row = 0; row < (width-4); row++){
+            LCD_drawPixel(x+col-(half_length-2), y+row-(half_width-2), b_color);
         }
     }
+    for (col = 0; col < (width-4); col++){
+        for (row = 0; row < (length-4); row++){
+            LCD_drawPixel(x+col-(half_width-2), y+row-(half_length-2), b_color);
+        }
+    }
+    
     // set bar_height and bar_width for LCD_drawBar
-    bar_height = height - 4;
     bar_width = width - 4;
+    bar_length = length - 4;
 }
 
-void LCD_drawBar(unsigned short x, unsigned short y, unsigned short length, unsigned short f_color, unsigned short b_color){
-    unsigned short col, row;
-    for(col = 0; col < bar_width; col++){
-        for(row = 0; row < bar_height; row++){
-            if (col < length){
-                LCD_drawPixel(x+col, y+row, f_color);
+void LCD_drawBarX(short length, unsigned short f_color, unsigned short b_color){
+    unsigned short col, row, x, y, half_width, half_length;
+    x = ILI9341_TFTWIDTH/2;
+    y = ILI9341_TFTHEIGHT/2;
+    half_width = (bar_width-1)/2;
+    half_length = (bar_length-1)/2;
+    
+    if (length >= 0){       // positive acceleration
+        for(col = 0; col < half_length; col++){
+            for(row = 0; row < bar_width; row++){
+                if (col < length){
+                    LCD_drawPixel(x+col, y-half_width+row, f_color);
+                }
+                else{
+                    LCD_drawPixel(x+col, y-half_width+row, b_color);
+                }
+                LCD_drawPixel(x-col, y-half_width+row, b_color);
             }
-            else{
-                LCD_drawPixel(x+col, y+row, b_color);
+        }
+    }
+    else{                   // negative acceleration
+        for(col = 0; col < half_length; col++){
+            for(row = 0; row < bar_width; row++){
+                if (col < (-1*length)){
+                    LCD_drawPixel(x-col, y-half_width+row, f_color);
+                }
+                else{
+                    LCD_drawPixel(x-col, y-half_width+row, b_color);
+                }
+                LCD_drawPixel(x+col, y-half_width+row, b_color);
+            }
+        }
+    }
+}
+
+void LCD_drawBarY(short length, unsigned short f_color, unsigned short b_color){
+    unsigned short col, row, x, y, half_width, half_length;
+    x = ILI9341_TFTWIDTH/2;
+    y = ILI9341_TFTHEIGHT/2;
+    half_width = (bar_width-1)/2;
+    half_length = (bar_length-1)/2;
+    
+    if (length >= 0){       // positive acceleration
+        for(col = 0; col < bar_width; col++){
+            for(row = 0; row < half_length; row++){
+                if (row < length){
+                    LCD_drawPixel(x-half_width+col, y+row, f_color);
+                }
+                else{
+                    LCD_drawPixel(x-half_width+col, y+row, b_color);
+                }
+                LCD_drawPixel(x-half_width+col, y-row, b_color);
+            }
+        }
+    }
+    else{                   // negative acceleration
+        for(col = 0; col < bar_width; col++){
+            for(row = 0; row < half_length; row++){
+                if (row < (-1*length)){
+                    LCD_drawPixel(x-half_width+col, y-row, f_color);
+                }
+                else{
+                    LCD_drawPixel(x-half_width+col, y-row, b_color);
+                }
+                LCD_drawPixel(x-half_width+col, y+row, b_color);
             }
         }
     }
