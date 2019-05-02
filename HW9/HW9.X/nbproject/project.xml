@@ -3,17 +3,17 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>HW6</name>
-            <creation-uuid>013ebe45-3a6e-466b-8512-3936e1dba7d3</creation-uuid>
+            <name>HW9</name>
+            <creation-uuid>7961f161-e4b1-4aff-a2b0-46a5210258c8</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions>c</c-extensions>
+            <c-extensions/>
             <cpp-extensions/>
-            <header-extensions>h</header-extensions>
+            <header-extensions/>
             <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList>
-                <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>../../HW6/HW6.X</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>

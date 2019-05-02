@@ -7,105 +7,105 @@ Archive member included because of file (symbol)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
                               build/default/production/main.o (__floatunsisf)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o (_bootstrap_exception_handler)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o (_bootstrap_exception_handler)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o (_on_reset)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o (_on_reset)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o (_on_bootstrap)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o (_on_bootstrap)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o (_nmi_handler)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o (_nmi_handler)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(pic32_data_init.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o (__pic32_data_init)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o (__pic32_data_init)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(general-exception.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o (_general_exception_context)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o (_general_exception_context)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector0.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_0)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_0)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector1.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_1)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_1)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector2.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_2)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_2)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector3.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_3)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_3)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector4.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_4)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_4)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector5.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_5)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_5)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector6.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_6)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_6)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector7.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_7)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_7)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector8.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_8)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_8)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector9.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_9)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_9)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector10.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_10)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_10)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector11.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_11)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_11)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector12.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_12)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_12)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector13.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_13)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_13)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector14.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_14)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_14)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector15.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_15)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_15)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector16.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_16)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_16)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector17.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_17)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_17)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector18.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_18)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_18)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector19.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_19)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_19)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector20.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_20)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_20)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector21.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_21)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_21)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector22.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_22)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_22)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector23.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_23)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_23)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector24.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_24)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_24)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector25.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_25)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_25)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector26.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_26)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_26)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector27.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_27)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_27)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector28.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_28)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_28)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector29.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_29)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_29)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector30.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_30)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_30)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector31.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_31)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_31)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector32.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_32)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_32)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector33.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_33)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_33)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector34.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_34)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_34)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector35.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_35)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_35)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector36.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_36)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_36)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector37.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_37)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_37)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector38.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_38)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_38)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector39.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_39)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_39)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector40.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_40)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_40)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector41.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_41)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_41)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector42.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_42)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_42)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector43.o)
-                              C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o (__vector_dispatch_43)
+                              C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o (__vector_dispatch_43)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
                               d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(general-exception.o) (_general_exception_handler)
 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
@@ -305,13 +305,13 @@ stack                   0xa0000198         0x7e58       32344  Reserved for stac
 
 Discarded input sections
 
- .reginfo       0x00000000       0x18 build/default/production/main.o
  .reginfo       0x00000000       0x18 build/default/production/lcd.o
+ .reginfo       0x00000000       0x18 build/default/production/main.o
  .reginfo       0x00000000       0x18 build/default/production/startup.o
- .reginfo       0x00000000       0x18 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
- .reginfo       0x00000000       0x18 C:\Users\XINMEN~1\AppData\Local\Temp\ccIrBJiB.o
- .reginfo       0x00000000       0x18 C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o
- .discard       0x00000000       0xb0 C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o
+ .reginfo       0x00000000       0x18 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
+ .reginfo       0x00000000       0x18 C:\Users\XINMEN~1\AppData\Local\Temp\ccXlvOPu.o
+ .reginfo       0x00000000       0x18 C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o
+ .discard       0x00000000       0xb0 C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o
  .reginfo       0x00000000       0x18 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX250F128B\default_isr_vectors.o
  .discard       0x00000000       0xb0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX250F128B\default_isr_vectors.o
  .reginfo       0x00000000       0x18 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
@@ -412,13 +412,13 @@ configsfrs       0xbfc00bf0         0x00000010
 Linker script and memory map
 
 LOAD d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\debug-exception-return.o
-LOAD build/default/production/main.o
 LOAD build/default/production/lcd.o
+LOAD build/default/production/main.o
 LOAD build/default/production/startup.o
                 0x00000001                __MPLAB_BUILD = 0x1
-LOAD C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
-LOAD C:\Users\XINMEN~1\AppData\Local\Temp\ccIrBJiB.o
-LOAD C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o
+LOAD C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
+LOAD C:\Users\XINMEN~1\AppData\Local\Temp\ccXlvOPu.o
+LOAD C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o
 LOAD d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX250F128B\default_isr_vectors.o
 LOAD d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
                 0x00000400                PROVIDE (_min_stack_size, 0x400)
@@ -468,16 +468,16 @@ END GROUP
 
 .reset          0xbfc00000      0x184
  *(.reset)
- .reset         0xbfc00000        0x8 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+ .reset         0xbfc00000        0x8 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
                 0xbfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0xbfc00008      0x17c C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+                0xbfc00008      0x17c C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
                 0xbfc00008                _startup
 
 .bev_excpt      0xbfc00380       0x10
  *(.bev_handler)
- .bev_handler   0xbfc00380       0x10 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+ .bev_handler   0xbfc00380       0x10 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
 
 .dbg_excpt      0xbfc00480        0x0
                 0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -487,7 +487,7 @@ END GROUP
 
 .app_excpt      0x9d01f180       0x10
  *(.gen_handler)
- .gen_handler   0x9d01f180       0x10 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+ .gen_handler   0x9d01f180       0x10 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
 
 .vector_0       0x9d01f200        0x8
  *(.vector_0)
@@ -1010,8 +1010,8 @@ END GROUP
 
 .mdebug.abi32   0xa0000010        0x0
  *(.mdebug.abi32)
- .mdebug.abi32  0xa0000010        0x0 build/default/production/main.o
  .mdebug.abi32  0xa0000010        0x0 build/default/production/lcd.o
+ .mdebug.abi32  0xa0000010        0x0 build/default/production/main.o
  .mdebug.abi32  0xa0000010        0x0 build/default/production/startup.o
  .mdebug.abi32  0xa0000010        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
  .mdebug.abi32  0xa0000010        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
@@ -1075,9 +1075,9 @@ END GROUP
 
 .comment        0x00000000      0x2c9
  *(.comment)
- .comment       0x00000000       0x3c build/default/production/main.o
+ .comment       0x00000000       0x3c build/default/production/lcd.o
                                  0x3d (size before relaxing)
- .comment       0x00000000       0x3d build/default/production/lcd.o
+ .comment       0x00000000       0x3d build/default/production/main.o
  .comment       0x00000000       0x3d build/default/production/startup.o
  .comment       0x00000000       0x3d d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
  .comment       0x00000000       0x3d d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
@@ -1123,9 +1123,9 @@ END GROUP
 .debug_aranges  0x00000000      0x1c0
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x20 build/default/production/main.o
+                0x00000000       0x20 build/default/production/lcd.o
  .debug_aranges
-                0x00000020       0x20 build/default/production/lcd.o
+                0x00000020       0x20 build/default/production/main.o
  .debug_aranges
                 0x00000040       0x20 build/default/production/startup.o
  .debug_aranges
@@ -1156,8 +1156,8 @@ END GROUP
 
 .debug_info     0x00000000     0x2a6c
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0x1ff build/default/production/main.o
- .debug_info    0x000001ff      0xd11 build/default/production/lcd.o
+ .debug_info    0x00000000      0xd11 build/default/production/lcd.o
+ .debug_info    0x00000d11      0x1ff build/default/production/main.o
  .debug_info    0x00000f10      0x420 build/default/production/startup.o
  .debug_info    0x00001330      0x133 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
  .debug_info    0x00001463       0xf9 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
@@ -1173,8 +1173,8 @@ END GROUP
 
 .debug_abbrev   0x00000000      0x6e4
  *(.debug_abbrev)
- .debug_abbrev  0x00000000       0x94 build/default/production/main.o
- .debug_abbrev  0x00000094      0x18f build/default/production/lcd.o
+ .debug_abbrev  0x00000000      0x18f build/default/production/lcd.o
+ .debug_abbrev  0x0000018f       0x94 build/default/production/main.o
  .debug_abbrev  0x00000223       0xa0 build/default/production/startup.o
  .debug_abbrev  0x000002c3       0x62 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
  .debug_abbrev  0x00000325       0x28 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
@@ -1190,8 +1190,8 @@ END GROUP
 
 .debug_line     0x00000000      0xc00
  *(.debug_line)
- .debug_line    0x00000000       0xaa build/default/production/main.o
- .debug_line    0x000000aa      0x2a1 build/default/production/lcd.o
+ .debug_line    0x00000000      0x2a1 build/default/production/lcd.o
+ .debug_line    0x000002a1       0xaa build/default/production/main.o
  .debug_line    0x0000034b      0x11d build/default/production/startup.o
  .debug_line    0x00000468       0x9e d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
  .debug_line    0x00000506       0xab d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
@@ -1208,8 +1208,8 @@ END GROUP
 
 .debug_frame    0x00000000      0x3a4
  *(.debug_frame)
- .debug_frame   0x00000000       0x2c build/default/production/main.o
- .debug_frame   0x0000002c      0x1ac build/default/production/lcd.o
+ .debug_frame   0x00000000      0x1ac build/default/production/lcd.o
+ .debug_frame   0x000001ac       0x2c build/default/production/main.o
  .debug_frame   0x000001d8       0x30 build/default/production/startup.o
  .debug_frame   0x00000208       0x28 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
  .debug_frame   0x00000230       0x2c d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
@@ -1225,8 +1225,8 @@ END GROUP
 
 .debug_str      0x00000000       0x10
  *(.debug_str)
- .debug_str     0x00000000        0x0 build/default/production/main.o
  .debug_str     0x00000000       0x10 build/default/production/lcd.o
+ .debug_str     0x00000010        0x0 build/default/production/main.o
  .debug_str     0x00000010        0x0 build/default/production/startup.o
  .debug_str     0x00000010        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(floatunsisf.o)
  .debug_str     0x00000010        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
@@ -1287,9 +1287,9 @@ END GROUP
                 0x00000000       0x10
  *(.gnu.attributes)
  .gnu.attributes
-                0x00000000       0x10 build/default/production/main.o
+                0x00000000       0x10 build/default/production/lcd.o
  .gnu.attributes
-                0x00000010       0x10 build/default/production/lcd.o
+                0x00000010       0x10 build/default/production/main.o
  .gnu.attributes
                 0x00000020       0x10 build/default/production/startup.o
  .gnu.attributes
@@ -1824,22 +1824,22 @@ LOAD data_init
  .data          0x00000000        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX250F128B\default_isr_vectors.o
 
 .bss%z155       0x00000000        0x0
- .bss           0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o
+ .bss           0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o
 
 .data%z156      0x00000000        0x0
- .data          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o
+ .data          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o
 
 .bss%z157       0x00000000        0x0
- .bss           0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccIrBJiB.o
+ .bss           0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccXlvOPu.o
 
 .data%z158      0x00000000        0x0
- .data          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccIrBJiB.o
+ .data          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccXlvOPu.o
 
 .bss%z159       0x00000000        0x0
- .bss           0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+ .bss           0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
 
 .data%z160      0x00000000        0x0
- .data          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+ .data          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
 
 .bss%z161       0x00000000        0x0
  .bss           0x00000000        0x0 build/default/production/startup.o
@@ -1848,16 +1848,16 @@ LOAD data_init
  .data          0x00000000        0x0 build/default/production/startup.o
 
 .bss%z163       0x00000000        0x0
- .bss           0x00000000        0x0 build/default/production/lcd.o
-
-.data%z164      0x00000000        0x0
- .data          0x00000000        0x0 build/default/production/lcd.o
-
-.bss%z165       0x00000000        0x0
  .bss           0x00000000        0x0 build/default/production/main.o
 
-.data%z166      0x00000000        0x0
+.data%z164      0x00000000        0x0
  .data          0x00000000        0x0 build/default/production/main.o
+
+.bss%z165       0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/lcd.o
+
+.data%z166      0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/lcd.o
 
 .bss%z167       0x00000000        0x0
  .bss           0x00000000        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\debug-exception-return.o
@@ -2040,7 +2040,7 @@ LOAD data_init
 .text.main_entry
                 0x9d004700       0x54
  .text.main_entry
-                0x9d004700       0x54 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+                0x9d004700       0x54 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
                 0x9d004734                __crt0_exit
 
 .text           0x9d004754       0x4c
@@ -2376,13 +2376,13 @@ LOAD data_init
  .text          0x00000000        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MX250F128B\default_isr_vectors.o
 
 .text%z241      0x00000000        0x0
- .text          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccNirsfi.o
+ .text          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccTOCViC.o
 
 .text%z242      0x00000000        0x0
- .text          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccIrBJiB.o
+ .text          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\ccXlvOPu.o
 
 .text%z243      0x00000000        0x0
- .text          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\cczQkcFk.o
+ .text          0x00000000        0x0 C:\Users\XINMEN~1\AppData\Local\Temp\cc856Bjs.o
 
 .text%z244      0x00000000        0x0
  .text          0x00000000        0x0 d:/program files/microchip/xc32/v2.15/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\debug-exception-return.o
