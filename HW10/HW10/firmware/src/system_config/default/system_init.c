@@ -68,24 +68,24 @@ SUBSTITUTE GOODS, TECHNOLOGY, SERVICES, OR ANY CLAIMS BY THIRD PARTIES
 
 /*** DEVCFG1 ***/
 
-#pragma config FNOSC =      FRCPLL
-#pragma config FSOSCEN =    OFF
-#pragma config IESO =       OFF
-#pragma config POSCMOD =    OFF
-#pragma config OSCIOFNC =   OFF
-#pragma config FPBDIV =     DIV_1
-#pragma config FCKSM =      CSDCMD
-#pragma config WDTPS =      PS1048576
-#pragma config FWDTEN =     OFF
-#pragma config WINDIS =     OFF
-#pragma config FWDTWINSZ =  WINSZ_50
+#pragma config FNOSC =      PRIPLL // use primary oscillator with pll
+#pragma config FSOSCEN =    OFF // turn off secondary oscillator
+#pragma config IESO =       OFF // no switching clocks
+#pragma config POSCMOD =    HS // high speed crystal mode
+#pragma config OSCIOFNC =   OFF // disable secondary osc
+#pragma config FPBDIV =     DIV_1 // divide sysclk freq by 1 for peripheral bus clock
+#pragma config FCKSM =      CSDCMD // do not enable clock switch
+#pragma config WDTPS =      PS1048576 // use slowest wdt
+#pragma config WINDIS =     OFF // wdt no window mode
+#pragma config FWDTEN =     OFF // wdt disabled
+#pragma config FWDTWINSZ =  WINSZ_25 // wdt window at 25%
 /*** DEVCFG2 ***/
 
 #pragma config FPLLIDIV =   DIV_2
 #pragma config FPLLMUL =    MUL_24
 #pragma config FPLLODIV =   DIV_2
-#pragma config UPLLIDIV =   DIV_3
-#pragma config UPLLEN =     OFF
+#pragma config UPLLIDIV =   DIV_2
+#pragma config UPLLEN =     ON
 /*** DEVCFG3 ***/
 
 #pragma config USERID =     0xffff

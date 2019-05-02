@@ -192,4 +192,5 @@ build/default/production/_ext/1360937237/app.o:  \
  ../../../../../../../../../../../Program\ Files/Microchip/harmony/v2_06/framework/usb/usb_device_cdc.h  \
  ../../../../../../../../../../../Program\ Files/Microchip/harmony/v2_06/framework/usb/src/usb_device_function_driver.h  \
  ../../../../../../../../../../../Program\ Files/Microchip/harmony/v2_06/framework/usb/usb_cdc.h  \
- ../src/app.h 
+ ../src/app.h  \
+../src/i2c.h 
